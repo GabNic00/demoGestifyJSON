@@ -1,4 +1,5 @@
-{[
+{
+    "products":[
     {
         "id": 1,
         "name": "Product 1",
@@ -34,4 +35,5 @@
         "category": "Category 2",
         "stock-count": 18
     }
-]}
+]
+}
